@@ -12,6 +12,6 @@ I am a Data Engineer from Tallin, Estonia with 2 years of experience in designin
 - Databases: PostgreSQL, Cassandra, MySQL, MSSQL
 - Others: Docker, Kubernetes, 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikky20201&layout=donut-vertical)](https://github.com/mikky20201/github-readme-stats)
+[![Micahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikky20201)](https://github.com/mikky20201/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikky20201&layout=donut-vertical)](https://github.com/mikky20201/github-readme-stats)
 
-[![Micahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikky20201)](https://github.com/mikky20201/github-readme-stats)
+
