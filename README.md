@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Micah
 
-[![LinkedIn](https://github.com/yourusername/yourrepository/blob/main/assets/linkedin.png)](https://www.linkedin.com/in/micah-tobias-14a634176/)  
 
 I am a Data Engineer from Tallin, Estonia with 2 years of experience in designing, building, and optimizing data pipelines and architectures. My expertise lies in leveraging modern data engineering tools and technologies to deliver robust and scalable data solutions. I am passionate about transforming raw data into actionable insights, and I enjoy sharing my knowledge through writing and community contributions. You can check me out on my linkedin https://www.linkedin.com/in/micah-tobias-14a634176/
 
