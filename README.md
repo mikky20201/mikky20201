@@ -15,4 +15,5 @@ I am a Data Engineer from Tallin, Estonia with 2 years of experience in designin
 
 [![Micahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikky20201)](https://github.com/mikky20201/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikky20201&hide_progress=true)
 
+![Micah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikky20201&show_icons=true&theme=radical)
 
