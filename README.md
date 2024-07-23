@@ -7,10 +7,11 @@ I am a Data Engineer from Tallin, Estonia with 2 years of experience in designin
 - Big Data Technologies: Apache Spark, Apache Flink, Hadoop
 - Data Warehousing: Redshift, Snowflake
 - Data Streaming: Apache Kafka
+- Data transformation: Dbt
 - Cloud Platforms: AWS, Azure, GCP
 - Orchestration Tools: Apache Airflow, Prefect
 - Databases: PostgreSQL, Cassandra, MySQL, MSSQL
-- Others: Docker, Kubernetes, 
+- Others: Docker, Kubernetes
 
 [![Micahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikky20201)](https://github.com/mikky20201/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikky20201&hide_progress=true)
 
